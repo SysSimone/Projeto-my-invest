@@ -113,7 +113,7 @@ export default function CadastrarInvestimento() {
                         </Form>
                     </div>
                 </Content>
-                <Footer style={{ textAlign: 'center' }}> MyInvest 2021 </Footer>
+                <Footer style={{ textAlign: 'center' }}> My Invest 2021 </Footer>
             </Layout>
         </div>
     );
